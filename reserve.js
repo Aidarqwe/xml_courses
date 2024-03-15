@@ -1,0 +1,26 @@
+const reserve = {
+	"BTC": 5,
+	"ETH": 20,
+	"USDT": 50000,
+	"USDC": 30000,
+	"DAI": 30000,
+	"BNB": 150,
+	"LTC": 700,
+	"TON": 19000,
+	"TWT": 24000,
+	"DOGE": 230000,
+	"AVAX": 550,
+	"DASH": 600,
+	"DOT": 3000,
+	"MATIC": 20000,
+	"ADA": 40000,
+	"USD": 50000,
+	"EUR": 55000,
+	"RUB": 10000000,
+	"KZT": 13543210,
+	"AZN": 34000,
+	"INR": 1657000,
+	"UZS": 250044695,
+}
+
+module.exports = reserve;
